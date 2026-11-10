@@ -1,0 +1,8 @@
+# Israel Colman
+#Demo 1
+#11/10/2026
+
+
+name1 = 'Maream Aldoori'
+name2 = 'Timothy Yip'
+print (f'My two classmates are {name1}, and {name2}')
