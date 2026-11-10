@@ -1,0 +1,17 @@
+# Israel Colman
+# Demo 4 
+# 11/10/2026
+
+
+meal_cost = 65
+tip = meal_cost * .20
+tax = meal_cost * 0.0825
+
+total_cost = meal_cost + tip + tax
+
+print(f'\n--------Meal Cost-----------')
+print(f'{'Meal Cost:':<16} ${meal_cost:>6.2f}')
+print(f'{'Tip (20%):':<16} ${tip:>6.2f}')
+print(f'{'Tax (8.25%):':<16} ${tax:>6.2f}')
+print('-'*28)
+print(f'{'Total Cost:':<16} ${total_cost:>6.2f}')
