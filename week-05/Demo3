@@ -1,0 +1,10 @@
+# Israel Colman
+#Demo 3
+#11/10/2026
+
+
+celsius = 30
+fahrenheit = (celsius * 9/5) + 32
+
+print(f'{celsius} degrees celsiusis is equivalent to \
+{fahrenheit:.2f} degrees fahrenheit.')
