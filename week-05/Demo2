@@ -14,3 +14,8 @@ sub_total = item1 + item2 + item3 + item4 + item5
 tax = sub_total * .07
 
 total_cost = sub_total + tax
+
+
+print (f' Sub-Total = ${sub_total:.2f}')
+print (f'       Tax = ${tax:.2f}')
+print (f'Total Cost = ${total_cost:.2f}')
