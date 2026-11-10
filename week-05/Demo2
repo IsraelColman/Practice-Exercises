@@ -1,0 +1,16 @@
+# Israel Colman
+#Demo 2
+#11/10/2026
+
+
+item1 = 25.75
+item2 = 45.67
+item3 = 45.75
+item4 = 55.67
+item5 = 45.60
+
+sub_total = item1 + item2 + item3 + item4 + item5
+
+tax = sub_total * .07
+
+total_cost = sub_total + tax
